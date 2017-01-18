@@ -1,4 +1,16 @@
 Donation Amounts on Patreon:
-$1 - 
-$5 - 
-$10 - 
+
+$1 - Contributor      
+$5 - Donator
+$10 - Investor              All donators get option to change name
+$50 - God 
+
+Other Ranks:
+
+Guest
+Registered
+Experienced
+Pro
+Mods
+Admins
+(customs)
