@@ -1,0 +1,19 @@
+Different worlds:
+
+HUB: leads to:
+
+
+              Survival LOBBY: leads to:
+                           Survival world with tp requests enabled
+
+              PvP LOBBY: leads to:
+                        PVP arenas
+
+              Factions LOBBY: leads to:
+                             Regular factions world
+
+              MiniGames LOBBY: leads to:
+                              Individual minigames
+
+              Creative plots: 1 per player, unless have ranks suggesting more than 1 plot
+
